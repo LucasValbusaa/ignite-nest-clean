@@ -1,0 +1,40 @@
+{
+    "workbench.colorTheme": "Dracula",
+    "workbench.iconTheme": "material-icon-theme",
+    "cSpell.language": "en,pt-BR,pt",
+    "terminal.integrated.defaultProfile.linux": "zsh",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "cSpell.userWords": [
+        "dayjs",
+        "Smartcoop"
+    ],
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "[prisma]": {
+        "editor.formatOnSave": true
+    },
+    "jestrunner.jestCommand": "npm run test",
+    "material-icon-theme.files.associations": {
+        "vitest.config.e2e.ts": "vitest",
+        "*.module.ts": "nest-module",
+        "*.controller.ts": "nest-controller",
+        "*.service.ts": "nest-service",
+        "*.guard.ts": "nest-guard",
+        "*.pipe.ts": "nest-pipe"
+    },
+    "material-icon-theme.folders.associations": {
+        "http": "public",
+        "infra": "server",
+        "domain": "class",
+        "application": "app",
+        "repositories": "import",
+        "mappers": "mappings"
+    },
+    "cSpell.words": [
+        "encrypter",
+        "Encrypter",
+        "Hasher"
+    ]
+}
